@@ -3,6 +3,9 @@ Thai-Nichi Institute of Technology (泰日工業大学)
 ITE-301 Web Design and Development : Semester 1/2021  
 WD02 group project
 
+## Screenshot
+![Screenshot](./screenshot/screenshot_1.png)
+
 ## Requirements
 
 - Visual Studio Code (vscode). `vscodium alternate of vscode`
